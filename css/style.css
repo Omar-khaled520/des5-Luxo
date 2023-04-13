@@ -87,7 +87,7 @@ header h3::after {
     /* end header */
     /* section 1 */
     .section1{
-        background-image:url(/imgs/modern-office-space-interior.jpg);
+        background-image:url(imgs/modern-office-space-interior.jpg);
         height: 90.6vh;
         background-position:0;
         background-repeat: no-repeat;
